@@ -1,2 +1,2 @@
-# Infos
-Informationen
+# Informationen
+Allgemeine Informationen
